@@ -51,3 +51,5 @@ Badges:
 ## 🌎 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Mendoza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinmendozaq/)
+
+[![ORCID](https://orcid.org/0009-0000-1071-3942)
