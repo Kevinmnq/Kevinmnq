@@ -1,6 +1,6 @@
-# Kevin-Mendoza
-
 ## Presentación
+
+Hola, soy Kevin Mendoza
 
 Ingeniero Industrial titulado de la Universidad de Lima con mención sobresaliente
 
